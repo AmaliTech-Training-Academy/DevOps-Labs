@@ -1,4 +1,4 @@
-# The "Immutable and Indestructible" pipeline
+# The "Immutable and Indestructible" pipeline - Fincorp
 
 **Scenario:** FinCorp requires a highly secure, auditable software supply chain. They also need a disaster recovery plan that ensures their critical database can be restored in a different region within 30 minutes.
 
