@@ -1,4 +1,4 @@
-# The "Poly-Orchestrator" challenge — ShopNow
+# The "Poly-Orchestrator" challenge - ShopNow
 
 **Scenario:** You are a DevOps Engineer for "ShopNow," a startup running a 3-tier e-commerce application (Frontend, Backend API, Redis, Postgres). The CTO wants to benchmark AWS ECS (Fargate) against Amazon EKS to decide which orchestrator suits the company best.
 
